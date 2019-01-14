@@ -6,3 +6,5 @@ Specifically tailored for a previous company I was hired for that required manua
 Utilises GUI and a mix of automated/manual process to increase productivity.
 
 Goal: To completely automate the CV formatting process
+
+Note: Does not contain libraries for word .doc output and was a WIP
